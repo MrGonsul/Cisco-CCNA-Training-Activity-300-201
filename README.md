@@ -94,40 +94,20 @@ The repository is organized by **CCNA level → topic → difficulty → activit
 
 ---
 
-## 🧩 Topics Covered
-
-### 🔐 ACL — Access Control List
-
-Practice activities related to network traffic filtering and access control.
-
-### 🛡️ Port Security
-
-Configure and troubleshoot switch port security mechanisms.
-
-### 🔄 EIGRP
-
-Routing activities using **Enhanced Interior Gateway Routing Protocol**.
-
-### 🌐 OSPF
-
-Practice dynamic routing using **Open Shortest Path First**.
-
-### 🔀 NAT
-
-Activities covering **Network Address Translation** and its configurations.
 
 ---
 
 ## 🚦 Availability
 
 ```text
-┌──────────────┬─────────────────┐
-│ Course       │ Status          │
-├──────────────┼─────────────────┤
-│ CCNA 1       │ 🚫 Not Available│
-│ CCNA 2       │ 🚫 Not Available│
-│ CCNA 3       │ ✅ Available    │
-└──────────────┴─────────────────┘
+┌──────────────┬───────────────────┐
+│ Course       │ Status            │
+├──────────────┼───────────────────┤
+│ CCNA 1       │ 🚫 Not Available  │
+│ CCNA 2       │ 🚫 Not Available  │
+│ CCNA 3       │ ✅ Available      │ 
+│ CCNA 4       │ 🚫 Not Available  │
+└──────────────┴───────────────────┘
 ```
 
 ---
