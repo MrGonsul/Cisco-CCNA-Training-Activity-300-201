@@ -22,7 +22,7 @@
 
 ---
 
-## 🏢 About The Project
+## 🏢 About The Repo
 
 **Cisco CCNA Training Activity 300-201** is a collection of practical networking activities designed to practice and improve **Cisco CCNA** skills.
 
