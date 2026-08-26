@@ -149,5 +149,7 @@ CCNA 4  ░░░░░░░░░░  🚫 Not Available
   <br>
   <i>Practice. Configure. Troubleshoot. Improve. 🚀</i>
 <p align="center">
-  <sub>© Copyright Cisco Systems, Inc.</sub>
-</p></p>
+  <sub>
+    © Cisco Systems, Inc. All rights reserved.
+  </sub>
+</p>></p>
