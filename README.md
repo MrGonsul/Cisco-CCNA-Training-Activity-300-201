@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=cisco&size=144" alt="Cisco">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=cisco&size=144&animation=fade&animationDuration=4" alt="Cisco">
 </p>
  
                             ____ ____ _   _    _      _____  ___   ___            ____   ___  _ 
