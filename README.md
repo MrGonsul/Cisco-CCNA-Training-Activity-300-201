@@ -14,11 +14,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco" />
   <img src="https://img.shields.io/badge/Packet%20Tracer-Labs-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CCNA%203-Available-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>🚀 Practical Cisco Networking Training & Troubleshooting Activities</b>
+  <b> Cisco Networking Training & Troubleshooting Activities</b>
 </p>
 
 ---
@@ -34,7 +33,7 @@ The repository is organized by **CCNA level → topic → difficulty → activit
 ## 🗂️ Repository Structure
 
 ```text
-📦 Cisco-CCNA-Training-Activity-300-201
+📦 Cisco CCNA Training Activity 300-201
 │
 ├── 📁 CCNA-1
 │   └── 🚫 Not Available
@@ -76,45 +75,21 @@ The repository is organized by **CCNA level → topic → difficulty → activit
 
 ---
 
-## 🛰️ CCNA 3 — Available
 
-The main focus of this repository is **CCNA 3**, which contains practical activities covering several important networking technologies.
-
-|  #  | Topic             |    Status   |
-| :-: | ----------------- | :---------: |
-|  0  | 🧠 Skill — CCNA 2 | ✅ Available |
-|  1  | 🔐 ACL            | ✅ Available |
-|  2  | 🛡️ Port Security | ✅ Available |
-|  3  | 🔄 EIGRP          | ✅ Available |
-|  4  | 🌐 OSPF           | ✅ Available |
-|  5  | 🔀 NAT            | ✅ Available |
-
----
-
-## 🎓 Activity Levels
-
-Every main CCNA 3 topic is divided into **three practice levels**:
-
-### 🟢 1 — Normal
-
-Basic configuration and fundamental networking scenarios.
-
-### 🟠 2 — Advanced
-
-More complex configurations requiring a deeper understanding of the topic.
-
-### 🔴 3 — Troubleshooting
-
-Activities focused on identifying, analyzing, and fixing networking problems.
 
 ```text
-        ┌───────────────────┐
-        │    CCNA 3 Topic   │
-        └─────────┬─────────┘
-                  │
-        ┌─────────┼─────────┐
-        ▼         ▼         ▼
-   🟢 Normal  🟠 Advanced  🔴 Troubleshooting
+                    ┌──────────────────────┐
+                    │    🌐 Cisco CCNA     │
+                    │   Training Activity  │
+                    └──────────┬───────────┘
+                               │
+       ┌──────────────┬──────────────┬──────────────┐
+       │              │              │              │
+       ▼              ▼              ▼              ▼
+┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐
+│  🌐 ITN 1 │  │  🔄 RSE 2 │ │ 🛡️ SCAN 3 │  │  🌐 CN 4  │
+│  Networks  │ │  Routing   │ │  Scaling   │ │ Connecting │
+└────────────┘ └────────────┘ └────────────┘ └────────────┘
 ```
 
 ---
