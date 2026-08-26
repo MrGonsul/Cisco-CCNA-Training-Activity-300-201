@@ -120,14 +120,6 @@ The repository is organized by **CCNA level → topic → difficulty → activit
   <img src="https://img.shields.io/badge/Networking-CCNA-success?style=for-the-badge" />
 </p>
 
-* 🌐 Cisco Networking
-* 🖥️ Cisco Packet Tracer
-* 🔐 ACL
-* 🛡️ Port Security
-* 🔄 EIGRP
-* 🌍 OSPF
-* 🔀 NAT
-* 🔧 Network Troubleshooting
 
 ---
 
@@ -147,6 +139,7 @@ The goal of this repository is to provide a structured collection of **Cisco CCN
 CCNA 1  ░░░░░░░░░░  🚫 Not Available
 CCNA 2  ░░░░░░░░░░  🚫 Not Available
 CCNA 3  ██████████  ✅ Available
+CCNA 4  ░░░░░░░░░░  🚫 Not Available
 ```
 
 ---
