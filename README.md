@@ -9,3 +9,195 @@
                           \____\____|_| \_/_/   \_\ |____/ \___/ \___/          |_____|\___/|_|
                                                                                                     
 
+# 🌐 Cisco CCNA Training Activity 300-201
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-Labs-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CCNA%203-Available-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>🚀 Practical Cisco Networking Training & Troubleshooting Activities</b>
+</p>
+
+---
+
+## 🏢 About The Project
+
+**Cisco CCNA Training Activity 300-201** is a collection of practical networking activities designed to practice and improve **Cisco CCNA** skills.
+
+The repository is organized by **CCNA level → topic → difficulty → activity**, making it easy to navigate and practice specific networking concepts.
+
+---
+
+## 🗂️ Repository Structure
+
+```text
+📦 Cisco-CCNA-Training-Activity-300-201
+│
+├── 📁 CCNA-1
+│   └── 🚫 Not Available
+│
+├── 📁 CCNA-2
+│   └── 🚫 Not Available
+│
+├── 📁 CCNA-3
+│   │
+│   ├── 📁 0-Skill-CCNA-2
+│   │
+│   ├── 📁 1-ACL
+│   │   ├── 📁 1-Normal
+│   │   ├── 📁 2-Advanced
+│   │   └── 📁 3-Troubleshooting
+│   │
+│   ├── 📁 2-Port-Security
+│   │   ├── 📁 1-Normal
+│   │   ├── 📁 2-Advanced
+│   │   └── 📁 3-Troubleshooting
+│   │
+│   ├── 📁 3-EIGRP
+│   │   ├── 📁 1-Normal
+│   │   ├── 📁 2-Advanced
+│   │   └── 📁 3-Troubleshooting
+│   │
+│   ├── 📁 4-OSPF
+│   │   ├── 📁 1-Normal
+│   │   ├── 📁 2-Advanced
+│   │   └── 📁 3-Troubleshooting
+│   │
+│   └── 📁 5-NAT
+│       ├── 📁 1-Normal
+│       ├── 📁 2-Advanced
+│       └── 📁 3-Troubleshooting
+│
+└── 📄 README.md
+```
+
+---
+
+## 🛰️ CCNA 3 — Available
+
+The main focus of this repository is **CCNA 3**, which contains practical activities covering several important networking technologies.
+
+|  #  | Topic             |    Status   |
+| :-: | ----------------- | :---------: |
+|  0  | 🧠 Skill — CCNA 2 | ✅ Available |
+|  1  | 🔐 ACL            | ✅ Available |
+|  2  | 🛡️ Port Security | ✅ Available |
+|  3  | 🔄 EIGRP          | ✅ Available |
+|  4  | 🌐 OSPF           | ✅ Available |
+|  5  | 🔀 NAT            | ✅ Available |
+
+---
+
+## 🎓 Activity Levels
+
+Every main CCNA 3 topic is divided into **three practice levels**:
+
+### 🟢 1 — Normal
+
+Basic configuration and fundamental networking scenarios.
+
+### 🟠 2 — Advanced
+
+More complex configurations requiring a deeper understanding of the topic.
+
+### 🔴 3 — Troubleshooting
+
+Activities focused on identifying, analyzing, and fixing networking problems.
+
+```text
+        ┌───────────────────┐
+        │    CCNA 3 Topic   │
+        └─────────┬─────────┘
+                  │
+        ┌─────────┼─────────┐
+        ▼         ▼         ▼
+   🟢 Normal  🟠 Advanced  🔴 Troubleshooting
+```
+
+---
+
+## 🧩 Topics Covered
+
+### 🔐 ACL — Access Control List
+
+Practice activities related to network traffic filtering and access control.
+
+### 🛡️ Port Security
+
+Configure and troubleshoot switch port security mechanisms.
+
+### 🔄 EIGRP
+
+Routing activities using **Enhanced Interior Gateway Routing Protocol**.
+
+### 🌐 OSPF
+
+Practice dynamic routing using **Open Shortest Path First**.
+
+### 🔀 NAT
+
+Activities covering **Network Address Translation** and its configurations.
+
+---
+
+## 🚦 Availability
+
+```text
+┌──────────────┬─────────────────┐
+│ Course       │ Status          │
+├──────────────┼─────────────────┤
+│ CCNA 1       │ 🚫 Not Available│
+│ CCNA 2       │ 🚫 Not Available│
+│ CCNA 3       │ ✅ Available    │
+└──────────────┴─────────────────┘
+```
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-CCNA-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-CCNA-success?style=for-the-badge" />
+</p>
+
+* 🌐 Cisco Networking
+* 🖥️ Cisco Packet Tracer
+* 🔐 ACL
+* 🛡️ Port Security
+* 🔄 EIGRP
+* 🌍 OSPF
+* 🔀 NAT
+* 🔧 Network Troubleshooting
+
+---
+
+## 🎯 Goal
+
+The goal of this repository is to provide a structured collection of **Cisco CCNA practical activities**, progressing from normal configuration to advanced scenarios and troubleshooting.
+
+> 💡 **Learn → Configure → Practice → Troubleshoot → Master**
+
+---
+
+## 📌 Repository Status
+
+**Current Progress**
+
+```text
+CCNA 1  ░░░░░░░░░░  🚫 Not Available
+CCNA 2  ░░░░░░░░░░  🚫 Not Available
+CCNA 3  ██████████  ✅ Available
+```
+
+---
+
+<p align="center">
+  <b>🌐 Cisco CCNA Training Activity 300-201</b>
+  <br>
+  <i>Practice. Configure. Troubleshoot. Improve. 🚀</i>
+</p>
