@@ -102,11 +102,11 @@ The repository is organized by **CCNA level → topic → difficulty → activit
 
 ```text
 ┌──────────────┬───────────────────┐
-│ Course       │ Status            │
+│ Course       │      Status       │
 ├──────────────┼───────────────────┤
 │ CCNA 1       │   Coming Soon ... │
 │ CCNA 2       │   Coming Soon ... │
-│ CCNA 3       │ ✅ Available      │ 
+│ CCNA 3       │ ✅ Available     │ 
 │ CCNA 4       │   Coming Soon ... │
 └──────────────┴───────────────────┘
 ```
