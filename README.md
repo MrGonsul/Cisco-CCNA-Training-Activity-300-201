@@ -87,8 +87,9 @@ The repository is organized by **CCNA level → topic → difficulty → activit
        │              │              │              │
        ▼              ▼              ▼              ▼
 ┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐
-│  🌐 ITN 1 │  │  🔄 RSE 2 │ │ 🛡️ SCAN 3 │  │  🌐 CN 4  │
-│  Networks  │ │  Routing   │ │  Scaling   │ │ Connecting │
+│ 🌐 ITN 1  │  │ 🔄 RSE 2  │ │ 🛡️ SCAN 3 │  │  🌐 CN 4  │
+│Introduction│ │  Routing   │ │  Scaling   │ │ Connecting │
+│ Networking │ │ Switching  │ │  Network   │ │   Network  │
 └────────────┘ └────────────┘ └────────────┘ └────────────┘
 ```
 
@@ -103,10 +104,10 @@ The repository is organized by **CCNA level → topic → difficulty → activit
 ┌──────────────┬───────────────────┐
 │ Course       │ Status            │
 ├──────────────┼───────────────────┤
-│ CCNA 1       │ 🚫 Not Available  │
-│ CCNA 2       │ 🚫 Not Available  │
+│ CCNA 1       │   Coming Soon ... │
+│ CCNA 2       │   Coming Soon ... │
 │ CCNA 3       │ ✅ Available      │ 
-│ CCNA 4       │ 🚫 Not Available  │
+│ CCNA 4       │   Coming Soon ... │
 └──────────────┴───────────────────┘
 ```
 
